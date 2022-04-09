@@ -33,7 +33,7 @@
     "history": "^4.10.1",
     "install": "^0.13.0",
     "mini-css-extract-plugin": "^0.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-sass": "^4.13.0",
     "normalize.css": "7.0.0",
     "npm": "^6.13.0",
