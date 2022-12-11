@@ -28,7 +28,7 @@
     "babel-preset-react": "6.24.1",
     "bootstrap": "^4.4.1",
     "css-loader": "0.28.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^7.5.2",
     "history": "^4.10.1",
     "install": "^0.13.0",
